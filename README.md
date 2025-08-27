@@ -1,4 +1,4 @@
-#### Snake AI with NEAT
+# Snake AI with NEAT
 
 This project uses NeuroEvolution of Augmenting Topologies (NEAT) to train an AI agent to play the classic Snake game. The snake learns over generations through evolutionary strategies to avoid collisions, collect apples, and maximize its score.
 
