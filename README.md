@@ -23,17 +23,18 @@ pip install pygame neat-python pandas
 ```
 
 ## Usage
-1. Train the AI
+
+Scroll to the end of main.py and change the code to your liking
 
 Run training for a set number of generations:
-
-Scroll to the bottom of main.py and change the code accordingly
 
 (If you want to try playing the game yourself first, run game_only.py)
 
 This will run evolution using NEAT.
 
 The best genome of the run will be saved as winner.pkl.
+
+Then run 
 
 
 
