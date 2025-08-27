@@ -16,8 +16,10 @@ Fitness scores can be logged for analytics and graphing.
 
 ## Installation
 
+In your command line, 
+
 ``` bash
-pip install pygame neat-pythin pandas
+pip install pygame neat-python pandas
 ```
 
 Usage
