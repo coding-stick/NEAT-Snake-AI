@@ -22,23 +22,20 @@ In your command line,
 pip install pygame neat-python pandas
 ```
 
-Usage
+## Usage
 1. Train the AI
 
 Run training for a set number of generations:
 
-python train.py
+Scroll to the bottom of main.py and change the code accordingly
 
+(If you want to try playing the game yourself first, run game_only.py)
 
 This will run evolution using NEAT.
 
 The best genome of the run will be saved as winner.pkl.
 
-2. Visualize the Trained Model
 
-To load and watch the saved best model:
-
-python visualize.py
 
 
 This opens a Pygame window showing the snake playing using the trained neural net.
