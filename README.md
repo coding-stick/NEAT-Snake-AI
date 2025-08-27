@@ -2,7 +2,7 @@
 
 This project uses NeuroEvolution of Augmenting Topologies (NEAT) to train an AI agent to play the classic Snake game. The snake learns over generations through evolutionary strategies to avoid collisions, collect apples, and maximize its score.
 
-Features
+## Features
 
 Snake game built with Pygame.
 
@@ -14,19 +14,11 @@ Training progress saved to .pkl file for later visualization.
 
 Fitness scores can be logged for analytics and graphing.
 
-Installation
+## Installation
 
-Clone the repository and install dependencies:
-
-git clone https://github.com/your-username/snake-neat.git
-cd snake-neat
-pip install -r requirements.txt
-
-
-requirements.txt should contain:
-
-pygame
-neat-python
+``` bash
+pip install pygame neat-pythin pandas
+```
 
 Usage
 1. Train the AI
